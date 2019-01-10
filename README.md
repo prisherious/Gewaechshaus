@@ -40,8 +40,8 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Maximilian Schührer** - *Initial work* - [PurpleBooth](https://github.com/prisherious)
-
+* **Maximilian Schührer** - *Initial work* - [prisherious](https://github.com/prisherious)
+* **Kevin German** - *Intial work* - [Germanke](https://github.com/Kevger)
 
 ## License
 
