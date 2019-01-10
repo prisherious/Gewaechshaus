@@ -1,0 +1,31 @@
+Partlist
+
+Exported from gewaechshaus.sch at 30.12.2018 12:50
+
+EAGLE Version 9.2.2 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value            Device           Package            Library          Sheet
+
+C1       22uF/25V         C-EUC0805K       C0805K             rcl              1
+C2       100nF            C-EUC0805K       C0805K             rcl              1
+C3       10nF             C-EUC0805K       C0805K             rcl              1
+C4       3n9              C-EUC0805K       C0805K             rcl              1
+C5       47uF/6.3V        C-EUC0805K       C0805K             rcl              1
+GHDTT1   HEF40098BP       HEF40098BP       DIL16              40xx             1
+IC1      HEF40098BP       HEF40098BP       DIL16              40xx             1
+K1       PIN20X2          PIN20X2          PIN_20X2           FLYFISH          1
+L1       VLS6045EX-100M-H VLS6045EX-100M-H INDPM6360X450N     VLS6045EX-100M-H 1
+R1       10K              R-EU_R0805       R0805              rcl              1
+R2       4K7              R-EU_R0805       R0805              rcl              1
+R3       4K7              R-EU_R0805       R0805              rcl              1
+R4       6K8              R-EU_R0805       R0805              rcl              1
+R5       26K1             R-EU_R0805       R0805              rcl              1
+RELAIS                    AK500/6          AK500/6            con-ptr500       1
+SUPPLY                    AK500/2          AK500/2            con-ptr500       1
+U1       MP2307DN-LF-Z    MP2307DN-LF-Z    SOIC127P600X170-9N MP2307DN-LF-Z    1
+X1       DHT22            AK500/3          AK500/3            con-ptr500       1
+X2       DS18B20          AK500/3          AK500/3            con-ptr500       1
+X3       GHD1             AK500/3          AK500/3            con-ptr500       1
+X4       GY30             AK500/5          AK500/5            con-ptr500       1
